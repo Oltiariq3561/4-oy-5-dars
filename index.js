@@ -158,3 +158,45 @@
 // }
 // console.log(res);
 
+// 18-masala
+// let arr = [1, 2, 5, 3, 4, 10, 5, 7];
+// let kopaytma = 1;
+// for(let i = 0 ; i<arr.length; i++){
+// kopaytma = kopaytma * arr[i];
+// }
+// console.log(kopaytma);
+
+// 19-masala
+// let arr = [1, 2, 5, 3, 4, 10, 5, 7];
+// let toq = [];
+// for(let i = 0; i<arr.length; i++){
+// if(arr[i] % 2 == 1){
+// toq.push(arr[i])
+// }
+// }
+// console.log(toq);
+
+// 20-masala
+// let arr = [1, 2, 5, 3, 4, 10, 5, 7];
+// let toq = [];
+// for(let i = 0; i<arr.length; i++){
+// if(arr[i] % 2 == 0){
+// toq.push(arr[i])
+// }
+// }
+// console.log(toq);
+
+// 22-masala
+// let arr = [1, 2, '5', 3, 4, '10', 5, 7];
+// let son = [];
+// for(let i = 0; i<arr.length; i++){
+// if(arr[i] % 2 == 0 || arr[i] % 2 == 0 ){
+// son.push(arr[i])
+// }
+// }
+// console.log(son);
+
+// 23-masala
+// let arr = [1, 2, '5', 3, 4, '10', 5, 7];
+// let uzunlik = arr.length;
+// console.log(uzunlik);
